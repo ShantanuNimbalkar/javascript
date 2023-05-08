@@ -39,4 +39,4 @@ modules:
    - name: config
      type: text
      required: true
-     value: eslintrc
+     value: .eslintrc
