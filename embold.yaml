@@ -37,6 +37,4 @@ modules:
    enabled: true
    config:      
      - name: config
-       type: text
-       required: true
-       value: .eslintrc
+       value: eslintrc
