@@ -34,4 +34,6 @@ modules:
  - name: gamma_cxx
    enabled: false
  - name: eslint
-  config: {options: [{"use_config_from_source": false}]}
+  config:
+    options: 
+      use_config_from_source: false
