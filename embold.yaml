@@ -36,7 +36,7 @@ modules:
  - name: eslint
    enabled: true
    config:
-     - name: options
+     - name: config
        value: use_config_from_source
        required: true
        
