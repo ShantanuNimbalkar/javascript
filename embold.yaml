@@ -35,6 +35,3 @@ modules:
    enabled: false
  - name: eslint
    enabled: true
-   config:      
-     - name: config
-       value: eslintrc
